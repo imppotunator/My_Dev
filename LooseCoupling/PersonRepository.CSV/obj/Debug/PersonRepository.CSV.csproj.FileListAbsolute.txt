@@ -1,0 +1,7 @@
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PersonRepository.CSV\bin\Debug\PersonRepository.CSV.dll
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PersonRepository.CSV\bin\Debug\PersonRepository.CSV.pdb
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PersonRepository.CSV\bin\Debug\Common.dll
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PersonRepository.CSV\bin\Debug\Common.pdb
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PersonRepository.CSV\obj\Debug\PersonRepository.CSV.csprojResolveAssemblyReference.cache
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PersonRepository.CSV\obj\Debug\PersonRepository.CSV.dll
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PersonRepository.CSV\obj\Debug\PersonRepository.CSV.pdb

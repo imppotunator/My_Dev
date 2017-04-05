@@ -1,0 +1,5 @@
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\Common\bin\Debug\Common.dll
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\Common\bin\Debug\Common.pdb
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\Common\obj\Debug\Common.dll
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\Common\obj\Debug\Common.pdb

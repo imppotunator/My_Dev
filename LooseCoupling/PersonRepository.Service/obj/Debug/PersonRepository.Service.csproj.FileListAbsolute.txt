@@ -1,0 +1,7 @@
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PersonRepository.Service\bin\Debug\PersonRepository.Service.dll.config
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PersonRepository.Service\bin\Debug\PersonRepository.Service.dll
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PersonRepository.Service\bin\Debug\PersonRepository.Service.pdb
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PersonRepository.Service\bin\Debug\Common.dll
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PersonRepository.Service\bin\Debug\Common.pdb
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PersonRepository.Service\obj\Debug\PersonRepository.Service.dll
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PersonRepository.Service\obj\Debug\PersonRepository.Service.pdb

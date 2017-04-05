@@ -1,0 +1,13 @@
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PeopleViewer.Presentation.Tests\bin\Debug\PeopleViewer.Presentation.Tests.dll
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PeopleViewer.Presentation.Tests\bin\Debug\PeopleViewer.Presentation.Tests.pdb
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PeopleViewer.Presentation.Tests\bin\Debug\Common.dll
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PeopleViewer.Presentation.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PeopleViewer.Presentation.Tests\bin\Debug\Moq.dll
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PeopleViewer.Presentation.Tests\bin\Debug\PeopleViewer.Presentation.dll
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PeopleViewer.Presentation.Tests\bin\Debug\Common.pdb
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PeopleViewer.Presentation.Tests\bin\Debug\PeopleViewer.Presentation.pdb
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PeopleViewer.Presentation.Tests\bin\Debug\Moq.xml
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PeopleViewer.Presentation.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PeopleViewer.Presentation.Tests\obj\Debug\PeopleViewer.Presentation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PeopleViewer.Presentation.Tests\obj\Debug\PeopleViewer.Presentation.Tests.dll
+C:\Users\leok\Documents\learning-dependency-injection-master\learning-dependency-injection-master\LooseCoupling\PeopleViewer.Presentation.Tests\obj\Debug\PeopleViewer.Presentation.Tests.pdb
